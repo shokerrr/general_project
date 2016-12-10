@@ -48,13 +48,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Advertisment.cs" />
-    <Compile Include="Category.cs" />
-    <Compile Include="EntityBase.cs" />
-    <Compile Include="Feedback.cs" />
-    <Compile Include="Order.cs" />
-    <Compile Include="Rate.cs" />
-    <Compile Include="User.cs" />
+    <Compile Include="Entities\Advertisment.cs" />
+    <Compile Include="Entities\Category.cs" />
+    <Compile Include="Entities\EntityBase.cs" />
+    <Compile Include="Entities\Feedback.cs" />
+    <Compile Include="Entities\Order.cs" />
+    <Compile Include="Entities\Rate.cs" />
+    <Compile Include="ServiceContext.cs" />
+    <Compile Include="Entities\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
