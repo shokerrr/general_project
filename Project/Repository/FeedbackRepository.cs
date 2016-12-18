@@ -7,7 +7,7 @@ using Domain;
 
 namespace Repository
 {
-    public class FeedbackRepository : RepositoryBase<Feedback>, ICategoryRepository
+    public class FeedbackRepository : RepositoryBase<Feedback>, IFeedbackRepository
     {
         public FeedbackRepository(ServiceContext context): base(context)
         {

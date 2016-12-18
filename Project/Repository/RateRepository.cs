@@ -7,7 +7,7 @@ using Domain;
 
 namespace Repository
 {
-    public class RateRepository: RepositoryBase<Rate>, IUserRepository
+    public class RateRepository: RepositoryBase<Rate>, IRateRepository
     {
         public RateRepository(ServiceContext context): base(context)
         {

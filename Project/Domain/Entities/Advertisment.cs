@@ -9,7 +9,7 @@ namespace Domain
 {
     public class Advertisment: EntityBase
     {
-        enum Type { Performer, Customer }
+        public enum Type { Performer, Customer }
 
         [Required]
         public Type TypeOfAuthor { get; set; }
