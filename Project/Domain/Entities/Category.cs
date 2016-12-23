@@ -11,6 +11,7 @@ namespace Domain
 {
     public class Category: EntityBase
     {
+
         [Required]
         public string Name { get; set; }
     }

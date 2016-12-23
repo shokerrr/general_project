@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
+    //  Объявления
     public class Advertisment: EntityBase
     {
         public enum Type { Performer, Customer }

@@ -1,0 +1,17 @@
+C:\Users\5270414\Desktop\general_project-master\Project\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\5270414\Desktop\general_project-master\Project\BLL\bin\Debug\BLL.dll
+C:\Users\5270414\Desktop\general_project-master\Project\BLL\bin\Debug\BLL.pdb
+C:\Users\5270414\Desktop\general_project-master\Project\BLL\bin\Debug\Domain.dll
+C:\Users\5270414\Desktop\general_project-master\Project\BLL\bin\Debug\Repository.dll
+C:\Users\5270414\Desktop\general_project-master\Project\BLL\bin\Debug\Domain.pdb
+C:\Users\5270414\Desktop\general_project-master\Project\BLL\bin\Debug\Repository.pdb
+C:\Users\5270414\Desktop\general_project-master\Project\BLL\obj\Debug\BLL.dll
+C:\Users\5270414\Desktop\general_project-master\Project\BLL\obj\Debug\BLL.pdb
+C:\Users\5270414\Desktop\ASP.NET Project\Project\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\5270414\Desktop\ASP.NET Project\Project\BLL\obj\Debug\BLL.dll
+C:\Users\5270414\Desktop\ASP.NET Project\Project\BLL\obj\Debug\BLL.pdb
+C:\Users\aleks\Downloads\ASP.NET Project — копия (2)\ASP.NET Project — копия (2)\Project\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Downloads\ASP.NET Project — копия (2)\ASP.NET Project — копия (2)\Project\BLL\obj\Debug\BLL.dll
+C:\Users\aleks\Downloads\ASP.NET Project — копия (2)\ASP.NET Project — копия (2)\Project\BLL\obj\Debug\BLL.pdb
+C:\Users\aleks\Downloads\ASP.NET Project — копия (2)\ASP.NET Project\Project\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ASP.NET Project\Project\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache

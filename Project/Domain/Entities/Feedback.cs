@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
+    //  Отзывы
     public class Feedback: EntityBase
     {
         [Required]

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
+    //  Оценки
     public class Rate: EntityBase
     {
         [Required]
